@@ -1,4 +1,4 @@
-This repository is about creating a control panel web page for controlling six handles
+This repository is about creating a control panel web page for controlling six handles a\
 Here is the list of files:
 1. index.html 
 2. style.css
